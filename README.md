@@ -1,30 +1,33 @@
 # legenda-comandos-terminal
 Aqui está uma breve legenda para os comandos do terminal. Lembre de usar o comando "grep" para encontrar com mais fácilidade ;)
 
+.
+.
 #### Legenda dos comandos para o terminal ####
-
+.
+.
 
 - `pwd` (**p**rint **w**orking **d**irectory): exibe qual é o seu diretório corrente
-
+.
 
 - `ls` (**l**i**s**t files): lista o que está no seu diretório corrente.
-
+.
 
 - `cd <diretório de destino>` (**c**hange **d**irectory): altera o diretório corrente para o diretório de destino.
-
+.
 
 - `cd ..`: volta para o diretório anterior. Ex: se você está em `/diretorio-pai/diretorio-filho` e executa `cd ..`, o seu diretório corrente passa a ser `/diretorio-pai`.
-
+.
 
 - `cd ../../../`: volta três diretórios. Você pode fazer `../` quantas vezes quiser. O número de vezes determinará quantos diretórios você vai voltar pra trás.
-
+.
 
 - `mkdir <nomedodiretório>` (**m**a**k**e **dir**ectory): cria um novo diretório no diretório corrente.
-
+.
 
 - `touch [nome do arquivo].extensão`: cria um novo arquivo 
 (.md extensão de texto).
-
+.
 
 - `grep' - Usado para encontrar palavras dentro de um arquivo de texto.
 Usado da seguinte maneira:
@@ -53,16 +56,16 @@ Também é possível fazer uma busca "invertida" com o operador "-v", no caso de
 'grep' (-v) [caractere à ser IGNORADO] {nome da busca à ser feita}
 
 Mais sobre o comando 'grep': https://phoenixnap.com/kb/grep-command-linux-unix-examples
-
+.
 
 - `rm` (remover): remove/exclui pastas e arquivos (use com cautela).
-
+.
 
 - `cp` (copy/copiar): copia/duplica pastas e arquivos.
-
+.
 
 - `mv` (mover): usado para mover/arrastar pastas e arquivos.
-
+.
 
 - `head` (cabeçalho): este comando exibe as primeiras 10 linhas da composição de um arquivo.
 
